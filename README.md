@@ -14,6 +14,7 @@ Go to [github.com](https://github.com/) and create an account. After you have ve
 
 Write a command that prints out the string “hello, world”. Extra credit: As in Listing 1, do it two different ways, both with and without using quotation marks.
 print("hello, world")
+print 
 
 
 ## 2: Cleaning up
